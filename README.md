@@ -115,12 +115,13 @@ We will proceed step by step, starting from **basics of cybersecurity** to **imp
 ---
 
 ## 📅 Timeline (Example)
-- Week 1–2: Cybersecurity + IDS basics  
-- Week 3: FL basics + IDS datasets setup  
-- Week 4–5: Centralized IDS baseline models  
-- Week 6–7: Federated IDS implementation (FedAvg, FedProx)  
-- Week 8: Privacy & robustness experiments  
-- Week 9: Research gap analysis & documentation  
+- Week 1: Cybersecurity + IDS basics  
+- Week 2: FL basics + IDS datasets setup  
+- Week 3: Centralized IDS baseline models  
+- Week 4: Federated IDS implementation (FedAvg, FedProx)  
+- Week 5: Privacy & robustness experiments  
+- Week 6: Research gap analysis & documentation
+- Week 7: Working on Research
 
 ---
 
@@ -134,7 +135,9 @@ We will proceed step by step, starting from **basics of cybersecurity** to **imp
 - [ ] Baseline Centralized IDS Models  
 - [ ] Federated IDS Implementation  
 - [ ] Robustness & Privacy Experiments  
-- [ ] Research Gap Analysis  
+- [ ] Research Gap Analysis
+- [ ] MVP model
+- [ ] Actual Model
 - [ ] Final Report Writing  
 
 ---
