@@ -114,7 +114,7 @@ We will proceed step by step, starting from **basics of cybersecurity** to **imp
 
 ---
 
-## 📅 Timeline (Example)
+## 📅 Timeline
 - Week 1: Cybersecurity + IDS basics  
 - Week 2: FL basics + IDS datasets setup  
 - Week 3: Centralized IDS baseline models  
