@@ -11,13 +11,13 @@ We will proceed step by step, starting from **basics of cybersecurity** to **imp
 ## 🗂️ Learning & Progress Roadmap
 
 ### 1. Cybersecurity Foundations
-- [ ] Understand **Cybersecurity basics** (CIA Triad, threat models, attack vectors)  
-- [ ] Study **Types of Cybersecurity**  
-  - [ ] Network Security  
-  - [ ] Endpoint Security  
-  - [ ] Cloud Security  
-  - [ ] IoT/OT Security  
-  - [ ] Application Security  
+- [X] Understand **Cybersecurity basics** (CIA Triad, threat models, attack vectors)  
+- [X] Study **Types of Cybersecurity**  
+  - [x] Network Security  
+  - [x] Endpoint Security  
+  - [x] Cloud Security  
+  - [x] IoT/OT Security  
+  - [x] Application Security  
 
 ### 2. Distributed Cybersecurity Systems
 - [ ] Learn **types of distributed CS systems**  
