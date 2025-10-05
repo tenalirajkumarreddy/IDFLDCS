@@ -20,11 +20,11 @@ We will proceed step by step, starting from **basics of cybersecurity** to **imp
   - [x] Application Security  
 
 ### 2. Distributed Cybersecurity Systems
-- [ ] Learn **types of distributed CS systems**  
-  - [ ] Host-based IDS (HIDS)  
-  - [ ] Network-based IDS (NIDS)  
-  - [ ] Cloud & Edge IDS  
-  - [ ] IoT/5G/SCADA systems  
+- [x] Learn **types of distributed CS systems**  
+  - [x] Host-based IDS (HIDS)  
+  - [x] Network-based IDS (NIDS)  
+  - [x] Cloud & Edge IDS  
+  - [x] IoT/5G/SCADA systems  
 
 ### 3. Intrusion Detection
 - [ ] Understand **Intrusion Detection methods**  
