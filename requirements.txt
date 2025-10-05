@@ -1,0 +1,42 @@
+# Secure Federated Learning Framework Requirements
+
+# Core ML/DL libraries
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+
+# Cryptography libraries
+cryptography>=3.4.8
+pycryptodome>=3.15.0
+
+# Differential Privacy
+opacus>=1.3.0  # Facebook's differential privacy library
+diffprivlib>=0.5.0  # IBM's differential privacy library
+
+# Homomorphic Encryption
+tenseal>=0.3.0  # Microsoft SEAL wrapper for Python
+seal-python>=3.6.0  # Alternative SEAL wrapper
+
+# Additional security libraries
+pyopenssl>=21.0.0
+pynacl>=1.4.0  # Networking and Cryptography library
+
+# Data handling and utilities
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Networking and communication
+flask>=2.0.0
+requests>=2.25.0
+websockets>=10.0
+
+# Testing and development
+pytest>=6.2.0
+black>=21.6.0
+flake8>=3.9.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
